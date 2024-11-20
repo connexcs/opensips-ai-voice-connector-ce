@@ -53,7 +53,7 @@ logging.basicConfig(
 )
 
 if __name__ == '__main__':
-    from engine import run
+    from standalone import run
     run()
 
 # vim: tabstop=8 expandtab shiftwidth=4 softtabstop=4
